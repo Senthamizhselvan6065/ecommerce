@@ -1,0 +1,36 @@
+
+
+<------ part 2 video -------->
+43 - creating product model
+18:00 - create & save product
+37:00 - creating data seeder
+48:11 - get all producs
+52:06 - get single producs
+60:00 - update product
+01:08:50 - delete product
+<-------Error Handleing ------->
+1:14:20 - creating error handler class
+1.32:21 - catch async error
+1:40:00 - handleing validation errors
+1:57:00 - fixing error
+1:58:45 - unhandledRejection
+2:05:30 - uncaughtException
+
+<------ part 3 video -------->
+42 - search products by keywords
+12:40 - filter category
+21:23 - filter price
+31:10 - pagination
+<---- user resource ---->
+38:21 - creating user model & register api
+1:00:05 - hashing password
+1:08:00 - generate json web token
+1:19:29 - login api
+1:41:00 - sending token in cookie
+1:48:34 - protecting routes from unauthorized user
+2:01:35 - authorize user role
+2:13:33 - creating logout api
+2:18:00 - adding user in product schema
+2:23:23 - generate reset password token
+2:31:30 - creating forgot password api
+3:04:38 - creating reset password api
